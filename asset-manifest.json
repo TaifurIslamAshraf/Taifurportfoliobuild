@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b6de615.css",
+    "main.js": "/static/js/main.274173dc.js",
+    "static/media/Error.svg": "/static/media/Error.d2b54c67df5959323f8bdb860b0fd1ec.svg",
+    "static/media/Taifur.jpg": "/static/media/Taifur.3889f54396690a4125d4.jpg",
+    "static/media/TaifurLogo.gif": "/static/media/TaifurLogo.1653c70925d7e49cb9bd.gif",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/mongodb.svg": "/static/media/mongodb.d5a9f33e37cd72ecff0d61eea1650d1e.svg",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/blockchain-1.svg": "/static/media/blockchain-1.da8a98a6586577f42fc6.svg",
+    "static/media/mysql-3.svg": "/static/media/mysql-3.5ed4a5dd315699121257.svg",
+    "static/media/express-109.svg": "/static/media/express-109.75fff9be2f3b289ba7be.svg",
+    "static/media/jquery-1.svg": "/static/media/jquery-1.a720425624c73a7db991.svg",
+    "static/media/sass-1.svg": "/static/media/sass-1.8aa78a8393470431c803.svg",
+    "static/media/nextJs.svg": "/static/media/nextJs.8a26c6f656d026180b394559f9acbf79.svg",
+    "static/media/react-2.svg": "/static/media/react-2.e68b35f4774979ae220b.svg",
+    "static/media/nodejs-2.svg": "/static/media/nodejs-2.38d424a0fa8071e904b1.svg",
+    "static/media/next-js.svg": "/static/media/next-js.1b2b52c044b9dcea988e.svg",
+    "static/media/jwtio-json-web-token.svg": "/static/media/jwtio-json-web-token.d33657fb8bc0e7213775.svg",
+    "static/media/mongodb-icon-1.svg": "/static/media/mongodb-icon-1.1aca075d5cce0819fea7.svg",
+    "static/media/bootstrap-5-1.svg": "/static/media/bootstrap-5-1.98585727bcfe0b155564.svg",
+    "static/media/typescript.svg": "/static/media/typescript.a6305a733dd55243980a.svg",
+    "static/media/socket-io-1.svg": "/static/media/socket-io-1.1c7f5e76a2332fcc7858.svg",
+    "static/media/git-icon.svg": "/static/media/git-icon.c60b7e5ae8ec2562f23f.svg",
+    "static/media/tailwindcss.svg": "/static/media/tailwindcss.68603ef4173093c409dc.svg",
+    "index.html": "/index.html",
+    "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c.svg",
+    "static/media/framer-motion.svg": "/static/media/framer-motion.cd0e8acf350dd639e9e8.svg",
+    "main.9b6de615.css.map": "/static/css/main.9b6de615.css.map",
+    "main.274173dc.js.map": "/static/js/main.274173dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6de615.css",
+    "static/js/main.274173dc.js"
+  ]
+}
